@@ -1,3 +1,3 @@
 # HTML + CSS + JS
 some experiments... 
-## learn to workFlow with VSc
+learn to workFlow with VSc
